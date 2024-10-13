@@ -50,9 +50,11 @@ El proyecto está configurado para que el código TypeScript se encuentre dentro
 - **moduleResolution**: `node16` (Especifica cómo TypeScript busca un archivo desde un especificador de módulo determinado.).
 - **target**: `es2022` (versión de ECMAScript que se usará para la salida).
 
-## Ejemplo de Uso
 
 Si estas configurando un proyecto desde cero, debes inicializar el tsconfig.json con el comando `npx tsc --init`.
+
+## Ejemplo de Uso
+
 Una vez que el servidor esté en ejecución, puedes acceder a la URL base y ver una respuesta con "{ response: 'Hello Team' }":
 
 ## Tecnologías Utilizadas
